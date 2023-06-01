@@ -1,1 +1,1 @@
-# m36Sequelize
+Working with Sequelize and MySQL.
